@@ -39,8 +39,6 @@ List all employees in the Sales department, including their employee number, las
 List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-ubmission
-
 
 Create an image file of your ERD.
 Create a .sql file of your table schemata.
