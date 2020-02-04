@@ -12,3 +12,4 @@ This is a SQL project as a new data analyst at Pewlett Hackward company, my firs
 
 # Project Description
 Once the database was completed, I answer a couple of answers that were questioned from our management team.  This was a very good unique project that was done using Postgre SQL.  
+![](https://github.com/beau-nguyen/SQL_Employee_Database/blob/master/ERD.png)
